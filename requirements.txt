@@ -1,0 +1,7 @@
+ollama
+PyQt6
+PyQt6-WebEngine
+ollama
+pyttsx3
+SpeechRecognition
+pyaudio
